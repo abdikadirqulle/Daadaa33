@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daadaa
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning node js
 
 <!---
 Daadaa33/Daadaa33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
