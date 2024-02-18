@@ -7,7 +7,7 @@ Full-stack developer
 I'm a Full stack developer, software engineering student and content creator from somalia based in somalia, kismayo. In 2020 I was a graphic designer and I wanted to learn a new skill so I decided to learn web development. I wasn't able to be consistent until 2022, that's when I started with my bachelors degree in software engineering.
 
 * 🌍  I'm based in Kismayo-somalia
-* 🖥️  See my portfolio at [dada.io](http://dada-io-ten.vercel.app/)
+* 🖥️  See my portfolio at [dada.io](https://abdikadirqulle.vercel.app/)
 * ✉️  You can contact me at [abdikadirqulle.com](mailto:abdikadirqulle.com)
 * 🧠  I'm learning Next.js and Docker
 * 🤝  I'm open to collaborating on interesting projects
